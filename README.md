@@ -4,6 +4,12 @@
 .
 .
 .
+Установка необходимых пакетов
+
+pip install -r requirements.txt
+.
+.
+.
 
 Для Windows
 
